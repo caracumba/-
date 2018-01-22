@@ -24,4 +24,4 @@
 Опубликован | 2004-03-19
 Сайт | <https://daringfireball.net/projects/markdown/>
 #### Markdown Syntax in gedit
-![](\https://commons.wikimedia.org/wiki/File:Markdown_Syntax_in_gedit.png?uselang=ru)
+![](https://www.google.ru/search?q=Markdown+Syntax+in+gedit&newwindow=1&dcr=0&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj5up_x_urYAhVFhiwKHSR8B20Q_AUICigB&biw=1366&bih=662#imgrc=l36qTMwSJtzW_M:)
